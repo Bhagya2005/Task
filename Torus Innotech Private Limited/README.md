@@ -11,19 +11,19 @@ password - admin123
 ## Screenshots
 
 ### Login Page
-![Login Page](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1391).png)
+![Login Page](https://github.com/Bhagya2005/Task/blob/main/Torus%20Innotech%20Private%20Limited/Screenshot%20(1391).png)
 
 ### Analytics Dashboard
-![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1392).png)
-![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1393).png)
-![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1394).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Task/blob/main/Torus%20Innotech%20Private%20Limited/Screenshot%20(1392).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Task/blob/main/Torus%20Innotech%20Private%20Limited/Screenshot%20(1393).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Task/blob/main/Torus%20Innotech%20Private%20Limited/Screenshot%20(1394).png)
 
 ### User Management Dashboard
-![User Management Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1395).png)
-![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1396).png)
-![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1397).png)
-![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1398).png)
-![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1399).png)
+![User Management Dashboard](https://github.com/Bhagya2005/Task/blob/main/Torus%20Innotech%20Private%20Limited/Screenshot%20(1395).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Task/blob/main/Torus%20Innotech%20Private%20Limited/Screenshot%20(1396).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Task/blob/main/Torus%20Innotech%20Private%20Limited/Screenshot%20(1397).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Task/blob/main/Torus%20Innotech%20Private%20Limited/Screenshot%20(1398).png)
+![Analytics Dashboard(https://github.com/Bhagya2005/Task/blob/main/Torus%20Innotech%20Private%20Limited/Screenshot%20(1399).png)
 
 
 
